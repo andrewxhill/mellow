@@ -1,0 +1,24 @@
+body { 
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+    min-width: 500px;
+    height: 100%; 
+    width: 100%;  
+    margin: 0px; 
+    color: #fff; 
+    background-color:#4a6cb5;
+  background: -moz-radial-gradient(circle, #82b64a, #b8fd85);
+  background: -webkit-gradient(radial, center center, 0, center center, 460, from(#82b64a), to(#b8fd85));
+  background: -webkit-radial-gradient(circle, #4481fc, #77a4ff);
+  
+    position:relative;
+    text-align: center
+}
+
+div#welcome {
+    width: 100%;
+    margin-top: 20%;
+    font-size: 8em;
+    font-weight: 700;
+    color: #232323;
+}
